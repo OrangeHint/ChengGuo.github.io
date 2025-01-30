@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Cheng Guo"
 description              : &description "An junior undergraduate student from Shanghai Jiao Tong University"
 url                      : https://ChengGuo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : https://ChengGuo.github.io 
 repository               : "ChengGuo/ChengGuo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
